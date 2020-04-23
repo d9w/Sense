@@ -8,4 +8,4 @@ Objective:
     + [DARTS](https://arxiv.org/pdf/1806.09055.pdf)
   + Learn Flux.jl:
     + [Julia Academy](https://juliaacademy.com/p/introduction-to-machine-learning)
-  + Implement the structrual learning
+  + Implement the structural learning
