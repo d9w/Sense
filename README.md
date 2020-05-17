@@ -1,15 +1,4 @@
 # Sense
-Scheduling structural learning
-
-Objective:
-  + Decision on the type of structural learning:
-    + [ADMM](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tianyun_Zhang_A_Systematic_DNN_ECCV_2018_paper.pdf)
-    + [AdaNet](https://arxiv.org/pdf/1607.01097.pdf)
-    + [DARTS](https://arxiv.org/pdf/1806.09055.pdf)
-  + Learn Flux.jl:
-    + [Julia Academy](https://juliaacademy.com/p/introduction-to-machine-learning)
-  + Implement the structural learning
-
 
 Project Checkpoint Summary:
 In this phase of the **SENSE** (**S**ch**E**duli**N**g **S**tructual l**E**arning), the [DARTS](https://arxiv.org/abs/1806.09055) algorithm was applied to DQN agents in CartPole. To our knowledge, DARTS has not been applied to Reinforcement Learning or implemented in Julia before this project.
